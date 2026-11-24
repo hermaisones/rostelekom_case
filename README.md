@@ -11,7 +11,7 @@
 
 ## Сборка и запуск
 
-Готовая сборка находится в `build\rectangle_lab.exe`. Для пересборки из PowerShell в корне проекта нужны GCC, Qt 6, CMake и Ninja из MSYS2 UCRT64.
+После сборки исполняемый файл находится в `build\rectangle_lab.exe`. Для пересборки из PowerShell в корне проекта нужны GCC, Qt 6, CMake и Ninja из MSYS2 UCRT64.
 
 ```powershell
 $env:Path = "C:\msys64\ucrt64\bin;$env:Path"
